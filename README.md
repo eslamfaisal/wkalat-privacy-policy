@@ -59,6 +59,11 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2023-05-04
 
+**Delete account**
+
+You can delete your acount when you sign in and go to account tab, then you will find a button called delete account, that will delete account without any permission.
+
+
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at wkalat.app@gmail.com.
